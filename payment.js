@@ -1,4 +1,4 @@
-// taking kilometers input from the user
+// / taking kilometers input from the user
 const kilometers = prompt("Enter value in kilometers: ")
 
 // conversion factor
